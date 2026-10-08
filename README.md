@@ -1,3 +1,5 @@
+> **Moved.** This operator was merged, with this repository's history, into [`tercen/cytonorm_operator`](https://github.com/tercen/cytonorm_operator) as version 2.0.0. Development continues there; this repository is archived.
+
 # cytonorm_rust_operator
 
 Batch normalisation for cytometry in Tercen. Rust port of
